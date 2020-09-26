@@ -16,4 +16,5 @@ It is located in the home directory
 
 # to start the application 
 initialize: first, we need to get node_modules. Simply run in the node: npm init
+
 start: to start the node application, I installed nodemon. To run it, simply write: npm start
